@@ -1,0 +1,44 @@
+{
+  "siswa": [
+    {
+      "id": 1,
+      "nama": "iqbal nur",
+      "kelas": "TKJ A",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": 2,
+      "nama": "Dinda",
+      "kelas": "TKJ A",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": 3,
+      "nama": "Ilyas",
+      "kelas": "TKJ A",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": 4,
+      "nama": "Syafig",
+      "kelas": "TKJ A",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": 5,
+      "nama": "Amat",
+      "kelas": "TKJ A",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": 6,
+      "nama": "iqbal",
+      "kelas": "TKJ B"
+    },
+    {
+      "id": 7,
+      "nama": "test",
+      "kelas": "test"
+    }
+  ]
+}
